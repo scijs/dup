@@ -1,6 +1,6 @@
 {
   "name": "dup",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Initialize an array of arrays to a constant",
   "main": "dup.js",
   "directories": {
